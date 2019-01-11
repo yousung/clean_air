@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d061de4-25cc-4daa-9177-1f4a99f116c5" name="air" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2202" rootFolder="/home/project/air" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2202" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
